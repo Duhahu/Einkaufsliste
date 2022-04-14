@@ -1,4 +1,6 @@
 # Lebenslauf
+![alt text](lebenslauf_bild.jpeg)
+-----
 > - **Vorname** Müller
 > - **Nachname** Schneider
 > - **Geburtsdatum** 26.01.1990
